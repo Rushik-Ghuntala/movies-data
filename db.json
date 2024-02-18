@@ -1,13 +1,11 @@
-
 {
-  "movies": [
+  "posts": [
     {
-        "id": "1",
-        "name": "rushik",
-    },
-    {
-        "id": "2",
-        "name": "nikunj",
-    },
+      "id": 1,
+      "title": "hello"
+    }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
