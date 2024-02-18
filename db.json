@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "movies": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Spider Man: No Way Home",
+      "image": "https://e0.pxfuel.com/wallpapers/42/653/desktop-wallpaper-no-way-home-fake-poste-no-way-home-spiderman.jpg",
     }
   ],
   "profile": {
